@@ -248,6 +248,8 @@ main .section-one .card .rightArrow .arrow.arrowRight{
 @media screen and (max-width: 640px){
 	main .section-one{
 		height: 45vh;
+		left: 0px !important;
+		margin-right: 10px !important;
 	}
 	main .section-one .card .imageHolder{
 		position: absolute;
